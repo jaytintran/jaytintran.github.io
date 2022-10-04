@@ -62,9 +62,9 @@ a {
     color: white;
 }
 
-.dark-theme .modal__title,
-.dark-theme .modal__subtitle,
-.dark-theme .modal__description {
+.dark-theme .modal__about .modal__title,
+.dark-theme .modal__about .modal__subtitle,
+.dark-theme .modal__about .modal__description {
     color: black;
 }
 
