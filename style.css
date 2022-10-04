@@ -68,6 +68,11 @@ a {
     color: black;
 }
 
+.dark-theme .modal__contact-title,
+.dark-theme .modal__contact-subtitle {
+    color: white
+}
+
 /* REUSABLE */
 .container {
     width: 100%;
