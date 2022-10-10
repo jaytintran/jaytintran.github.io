@@ -58,8 +58,7 @@ a {
 .dark-theme .fa-adjust, 
 .dark-theme .header__paragraph,
 .dark-theme .section__subtitle,
-.dark-theme .projects__specialization--title,
-{
+.dark-theme .projects__specialization--title {
     color: white;
 }
 
