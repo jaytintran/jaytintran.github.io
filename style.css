@@ -492,6 +492,16 @@ nav {
 	transform: translateX(0.25rem);
 } */
 
+.projects__more-btn {
+    display: inline-block;
+    background-color: #b82c2c;
+    padding: .75rem 1.5rem;
+    font-size: 1.125rem;
+    color: #fff;
+    margin-top: 2rem;
+    border-radius: .5rem;
+}
+
 /***************************************
                 FOOTER
 ****************************************/
